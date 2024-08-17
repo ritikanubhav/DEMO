@@ -1,3 +1,3 @@
 # DEMO
-## Ado.net Demo
-## Entity FrameworkDemo
+## 1.Ado.net Demo
+## 2.Entity Framework Demo
