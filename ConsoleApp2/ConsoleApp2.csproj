@@ -8,7 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DEMO\AdoNetDemo.csproj" />
+    <ProjectReference Include="..\Entity.Business\Entity.Business.csproj" />
+    <ProjectReference Include="..\EntityDemo\Entity.Data.csproj" />
   </ItemGroup>
 
 </Project>
